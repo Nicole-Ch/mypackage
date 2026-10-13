@@ -1,3 +1,5 @@
+#This file..tells packaging tools the package's name, 
+# version, dependencies, and other information needed to distribute it.
 from pathlib import Path
 
 from setuptools import find_packages, setup
